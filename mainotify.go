@@ -1,6 +1,6 @@
 package mainotify
 
-import "maideax.com/mainotify2/services/aws"
+import "github.com/ryanchang1005/mainotify2/services/aws"
 
 func NewAWSClient() *aws.AWSClient {
 	return &aws.AWSClient{}
