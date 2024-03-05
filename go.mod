@@ -1,3 +1,3 @@
-module github.com/maideax/mainotify
+module maideax.com/mainotify2
 
-go 1.20
+go 1.21.6
